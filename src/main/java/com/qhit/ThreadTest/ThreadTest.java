@@ -12,6 +12,6 @@ public class ThreadTest implements Runnable {
     }
     @Override
     public void run() {
-        System.out.println("sh:"+a);
+        System.out.println("sh:"+a);asd
     }
 }
